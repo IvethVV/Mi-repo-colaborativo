@@ -9,4 +9,8 @@ Cambio realizado en local
 Cambio realizado en Github en la nube (rama main)
 
 
+<<<<<<< HEAD
 Línea añadida en local en la tarea.
+=======
+Línea añadida desde GitHub en la tarea.
+>>>>>>> eb67d2947f1bdb9c5aa87f3be1f5dc2aca2ca1a9
